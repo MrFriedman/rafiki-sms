@@ -5,3 +5,5 @@ Edited from [LaunchKit](https://launchkit.evilmartians.io/), a free static HTML/
 Licence: MIT. Keep the `LICENSE` file. See also `licenses.html` for vendor notices (Font Awesome, fonts).
 
 Open `index.html` in a browser. No build step. Replace `[NUMBER]` with the product SMS number. Accent colour is set to #C14E1C in `css/index.css`.
+
+This version positions Rafiki as AI by SMS for Africa: a horizontal assistant for people without Wi-Fi, with education as the first example among several use cases.
